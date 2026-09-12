@@ -1,0 +1,10 @@
+{
+  "generator": "BrandForge Bot",
+  "version": 3,
+  "generated_at": "2026-09-12T02:19:25.731Z",
+  "paths": [
+    "README.md",
+    "brand/brand.json",
+    "brand/logo.svg"
+  ]
+}
