@@ -4,11 +4,18 @@
   "category": "auto",
   "description": "A modern brand built around clear ideas, useful experiences, and long-term growth.",
   "colors": [
-    "#111111",
-    "#faf9f6",
-    "#d8d8d8",
+    "#101112",
+    "#fbfaf7",
+    "#cfd4d8",
     "#ffffff",
-    "#6c6c6c"
+    "#777b80",
+    "#17191b"
   ],
-  "website": "https://dktvmail.github.io/"
+  "website": "https://dktvmail.github.io/",
+  "principles": [
+    "clarity",
+    "quality",
+    "reliability",
+    "progress"
+  ]
 }
